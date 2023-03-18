@@ -25,4 +25,4 @@ The script will scrape news articles related to the keyword "kidnap" from the Pu
 You can also modify the script to scrape news articles related to a different keyword or from a different website. To do this, simply change the value of the "keywords" variable and the "base_url" variable in the script.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
