@@ -18,7 +18,7 @@ pip install beautifulsoup4 requests pandas
 
 To use this script, simply clone the repository and run the following command:
 ```python
-python scrape-keyword
+python scrape-keyword.py
 ```
 The script will scrape news articles related to the keyword "kidnap" from the PunchNG website and export the data to an Excel file called "Kidnap.xlsx".
 
